@@ -18,9 +18,9 @@ namespace SalesWebMvc.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()//resultado da acao
+        public IActionResult Index()//tipo generico pra todo resultado da acao
         {
-            return View();
+            return View();//objeto do tipo ViewResult
         }
 
         public IActionResult Privacy()
@@ -31,7 +31,7 @@ namespace SalesWebMvc.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new SalesWebMvc.Models.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
