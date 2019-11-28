@@ -122,6 +122,5 @@ C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\SalesWebMvc.Views.pdb
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\SalesWebMvc.Views.pdb
