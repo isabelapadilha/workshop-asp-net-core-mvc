@@ -129,3 +129,4 @@ C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\isabela.padilha\Desktop\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Index.cshtml.g.cs

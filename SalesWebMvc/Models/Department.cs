@@ -21,6 +21,11 @@ namespace SalesWebMvc.Models
             this.Id = Id;
             this.Name = Name;
         }
+
+        public Department(string name)
+        {
+            Name = name;
+        }
         public void addSeller(Seller seller) 
         {
             Sellers.Add(seller);
